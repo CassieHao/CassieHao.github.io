@@ -1,19 +1,20 @@
 # Site settings
-title: Will Wang's Blog
-SEOTitle: 王志彪的博客
+title: Cassie Hao's Blog
+SEOTitle: 郝中涵的博客
 header-img: img/post-bg-index.jpg
-email: wzbcode@163.com
+email: zhonghan.hao.1118@gmail.com
 description: "Every failure is leading towards success."
-keyword: "王志彪的博客, Will Wang, 王志彪, Java"
-url: "https://flyingwzb.github.io/"          # your host, for absolute URL
+keyword: "郝中涵的博客, Zhonghan Hao, 郝中涵, JavaScript, Frontend"
+url: "https://cassiehao.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
+github_repo: "https://github.com/CassieHao/CassieHao.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "但行好事，莫问前程。"
+sidebar-about-description: "世界上只有一种英雄主义"
 sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
+###修改书签
 
 
 # SNS settings
