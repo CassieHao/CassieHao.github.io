@@ -12,19 +12,17 @@ github_repo: "https://github.com/CassieHao/CassieHao.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "世界上只有一种英雄主义"
-sidebar-avatar: /img/cassiehao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-###修改书签
+sidebar-avatar: /img/WechatIMG2717.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
+weibo_username:     CathyAlgorithm
 zhihu_username:     zongguanxian
-github_username:    flyingwzb
-# facebook_username:  username
+github_username:    CassieHao
+facebook_username:  CassieHao
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+twitter_username:   Zhonghan_Hao
 
 
 # Build settings
